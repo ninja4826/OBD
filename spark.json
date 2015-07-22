@@ -1,0 +1,7 @@
+{
+    "name": "OBD",
+    "version": "0.0.1",
+    "author": "Russell Hueske <hueske.russ690@gmail.com>",
+    "license": "Choose a license",
+    "description": "Library for reading data from an OBD-II device."
+}
